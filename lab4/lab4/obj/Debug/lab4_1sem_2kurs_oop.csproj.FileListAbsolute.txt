@@ -1,0 +1,21 @@
+D:\2 курс\Роботи VS2019_2 курс\lab4_1sem_2kurs_oop\lab4_1sem_2kurs_oop\bin\Debug\lab4_1sem_2kurs_oop.exe.config
+D:\2 курс\Роботи VS2019_2 курс\lab4_1sem_2kurs_oop\lab4_1sem_2kurs_oop\bin\Debug\lab4_1sem_2kurs_oop.exe
+D:\2 курс\Роботи VS2019_2 курс\lab4_1sem_2kurs_oop\lab4_1sem_2kurs_oop\bin\Debug\lab4_1sem_2kurs_oop.pdb
+D:\2 курс\Роботи VS2019_2 курс\lab4_1sem_2kurs_oop\lab4_1sem_2kurs_oop\obj\Debug\lab4_1sem_2kurs_oop.csproj.AssemblyReference.cache
+D:\2 курс\Роботи VS2019_2 курс\lab4_1sem_2kurs_oop\lab4_1sem_2kurs_oop\obj\Debug\lab4_1sem_2kurs_oop.csproj.CoreCompileInputs.cache
+D:\2 курс\Роботи VS2019_2 курс\lab4_1sem_2kurs_oop\lab4_1sem_2kurs_oop\obj\Debug\lab4_1sem_2kurs_oop.exe
+D:\2 курс\Роботи VS2019_2 курс\lab4_1sem_2kurs_oop\lab4_1sem_2kurs_oop\obj\Debug\lab4_1sem_2kurs_oop.pdb
+C:\Users\User\Downloads\lab4\lab4_1sem_2kurs_oop\bin\Debug\lab4_1sem_2kurs_oop.exe.config
+C:\Users\User\Downloads\lab4\lab4_1sem_2kurs_oop\bin\Debug\lab4_1sem_2kurs_oop.exe
+C:\Users\User\Downloads\lab4\lab4_1sem_2kurs_oop\bin\Debug\lab4_1sem_2kurs_oop.pdb
+C:\Users\User\Downloads\lab4\lab4_1sem_2kurs_oop\obj\Debug\lab4_1sem_2kurs_oop.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\lab4\lab4_1sem_2kurs_oop\obj\Debug\lab4_1sem_2kurs_oop.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\lab4\lab4_1sem_2kurs_oop\obj\Debug\lab4_1sem_2kurs_oop.exe
+C:\Users\User\Downloads\lab4\lab4_1sem_2kurs_oop\obj\Debug\lab4_1sem_2kurs_oop.pdb
+C:\Users\User\Desktop\labsOOP\lab4\lab4_1sem_2kurs_oop\bin\Debug\lab4.exe.config
+C:\Users\User\Desktop\labsOOP\lab4\lab4_1sem_2kurs_oop\bin\Debug\lab4.exe
+C:\Users\User\Desktop\labsOOP\lab4\lab4_1sem_2kurs_oop\bin\Debug\lab4.pdb
+C:\Users\User\Desktop\labsOOP\lab4\lab4_1sem_2kurs_oop\obj\Debug\lab4_1sem_2kurs_oop.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\labsOOP\lab4\lab4_1sem_2kurs_oop\obj\Debug\lab4_1sem_2kurs_oop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\labsOOP\lab4\lab4_1sem_2kurs_oop\obj\Debug\lab4.exe
+C:\Users\User\Desktop\labsOOP\lab4\lab4_1sem_2kurs_oop\obj\Debug\lab4.pdb

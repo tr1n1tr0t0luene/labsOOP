@@ -1,0 +1,14 @@
+D:\2 курс\Роботи VS2019_2 курс\lab3_1sem_2kurs_oop\lab3_1sem_2kurs_oop\obj\Debug\lab3_1sem_2kurs_oop.csproj.AssemblyReference.cache
+D:\2 курс\Роботи VS2019_2 курс\lab3_1sem_2kurs_oop\lab3_1sem_2kurs_oop\obj\Debug\lab3_1sem_2kurs_oop.csproj.CoreCompileInputs.cache
+D:\2 курс\Роботи VS2019_2 курс\lab3_1sem_2kurs_oop\lab3_1sem_2kurs_oop\bin\Debug\lab3_1sem_2kurs_oop.exe.config
+D:\2 курс\Роботи VS2019_2 курс\lab3_1sem_2kurs_oop\lab3_1sem_2kurs_oop\bin\Debug\lab3_1sem_2kurs_oop.exe
+D:\2 курс\Роботи VS2019_2 курс\lab3_1sem_2kurs_oop\lab3_1sem_2kurs_oop\bin\Debug\lab3_1sem_2kurs_oop.pdb
+D:\2 курс\Роботи VS2019_2 курс\lab3_1sem_2kurs_oop\lab3_1sem_2kurs_oop\obj\Debug\lab3_1sem_2kurs_oop.exe
+D:\2 курс\Роботи VS2019_2 курс\lab3_1sem_2kurs_oop\lab3_1sem_2kurs_oop\obj\Debug\lab3_1sem_2kurs_oop.pdb
+C:\Users\User\Downloads\bratanich\lab3_1sem_2kurs_oop\lab3_1sem_2kurs_oop\obj\Debug\lab3_1sem_2kurs_oop.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\bratanich\lab3_1sem_2kurs_oop\lab3_1sem_2kurs_oop\obj\Debug\lab3_1sem_2kurs_oop.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\bratanich\lab3_1sem_2kurs_oop\lab3_1sem_2kurs_oop\bin\Debug\lab3.exe.config
+C:\Users\User\Downloads\bratanich\lab3_1sem_2kurs_oop\lab3_1sem_2kurs_oop\bin\Debug\lab3.exe
+C:\Users\User\Downloads\bratanich\lab3_1sem_2kurs_oop\lab3_1sem_2kurs_oop\bin\Debug\lab3.pdb
+C:\Users\User\Downloads\bratanich\lab3_1sem_2kurs_oop\lab3_1sem_2kurs_oop\obj\Debug\lab3.exe
+C:\Users\User\Downloads\bratanich\lab3_1sem_2kurs_oop\lab3_1sem_2kurs_oop\obj\Debug\lab3.pdb
